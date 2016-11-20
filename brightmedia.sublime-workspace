@@ -1,0 +1,1142 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ea",
+				"each\t$.each()"
+			],
+			[
+				"css",
+				"css\t.css() - multiple"
+			],
+			[
+				"ch",
+				"children\t.children()"
+			],
+			[
+				"ce",
+				"center"
+			],
+			[
+				"col",
+				"column"
+			],
+			[
+				"jus",
+				"justify-content"
+			],
+			[
+				"bro",
+				"brown-wth-border"
+			],
+			[
+				"ho",
+				"servicecat-homerepair.png\tw:31 h:31"
+			],
+			[
+				"read",
+				"ready\tdocument.ready - $(function(){})"
+			],
+			[
+				"fi",
+				"find\t.find()"
+			],
+			[
+				"ico-pa",
+				"ico-pay-visa.png\tw:50 h:30"
+			],
+			[
+				"logo",
+				"logoHeight"
+			],
+			[
+				"eleme",
+				"elementWidth"
+			],
+			[
+				"fade",
+				"fadeOut\t.fadeOut()"
+			],
+			[
+				"thu",
+				"thumb_width"
+			],
+			[
+				"first",
+				"firstLevelHref"
+			],
+			[
+				"ha",
+				"hamburger-close.png\tw:58 h:59"
+			],
+			[
+				"active",
+				"active-li"
+			],
+			[
+				"tra",
+				"transparent"
+			],
+			[
+				"back",
+				"background-image"
+			],
+			[
+				"desc",
+				"description"
+			],
+			[
+				"fad",
+				"fadeIn"
+			],
+			[
+				"transpa",
+				"transparent"
+			],
+			[
+				"hea",
+				"header.png\tw:1250 h:150"
+			],
+			[
+				"attr",
+				"attr\t.attr() - single"
+			],
+			[
+				"fa",
+				"fadeOut\t.fadeOut()"
+			],
+			[
+				"preve",
+				"preventDefault"
+			],
+			[
+				"mail",
+				"mailupload.php"
+			],
+			[
+				"list",
+				"list-style-type"
+			],
+			[
+				"list-style",
+				"list-style-type"
+			],
+			[
+				"lis",
+				"lisp-i\tlist-style-position: inside;"
+			],
+			[
+				"bgz",
+				"bgsz-ct\tbackground-size: contain;"
+			],
+			[
+				"ff",
+				"ff-a\tfont-family: Arial, \"Helvetica Neue\", Helvetica, sans-serif;"
+			],
+			[
+				"td",
+				"td-l\ttext-decoration: line-through;"
+			],
+			[
+				"border-co",
+				"border-collapse"
+			],
+			[
+				"la",
+				"last-child  (pseudo-class)"
+			],
+			[
+				"border",
+				"border-image: "
+			],
+			[
+				"bord",
+				"border-image:   (property)"
+			],
+			[
+				"n",
+				"nth-child(  (pseudo-class)"
+			],
+			[
+				"firs",
+				"first-child"
+			],
+			[
+				"trs",
+				"trs\ttransition: ${1:prop} ${2:time};"
+			],
+			[
+				"imp",
+				"@import\t@import url(${0});"
+			],
+			[
+				"li",
+				"lighten(color, 10%)"
+			],
+			[
+				"article-",
+				"article-title"
+			],
+			[
+				"d",
+				"disc"
+			],
+			[
+				"in",
+				"inside"
+			],
+			[
+				"list-style-",
+				"list-style-position"
+			],
+			[
+				"liststyle",
+				"list-style-type"
+			],
+			[
+				"box-z",
+				"-moz-box-sizing:   (property)"
+			],
+			[
+				"tran",
+				"transparent"
+			],
+			[
+				"le",
+				"letter-spacing"
+			],
+			[
+				"fff",
+				"F0F0F0"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"op",
+				"op:ms\t-ms-filter:opacity"
+			],
+			[
+				"ri",
+				"right"
+			],
+			[
+				"no",
+				"none"
+			],
+			[
+				"bor",
+				"border-left"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "html/index.html",
+			"settings":
+			{
+				"buffer_size": 19123,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "insta",
+		"selected_items":
+		[
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"css",
+				"SassBeautify: Convert from CSS to current type"
+			],
+			[
+				"",
+				"About"
+			],
+			[
+				"cssc",
+				"Run CSScomb"
+			],
+			[
+				"scss",
+				"Set Syntax: SCSS"
+			],
+			[
+				"emme",
+				"Emmet: Encode\\Decode Image to data:URL"
+			],
+			[
+				"htm",
+				"HTMLBeautify"
+			],
+			[
+				"html",
+				"HTMLBeautify"
+			],
+			[
+				"pack",
+				"Package Control: Discover Packages"
+			],
+			[
+				"sass",
+				"SassBeautify: Convert from SASS to current type"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"emmet",
+				"Emmet: Encode\\Decode Image to data:URL"
+			],
+			[
+				"emmet enc",
+				"Emmet: Encode\\Decode Image to data:URL"
+			],
+			[
+				"emmet en",
+				"Emmet: Encode\\Decode Image to data:URL"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"au",
+				"Autoprefix CSS"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"tor",
+				"TortoiseSVN: Commit"
+			],
+			[
+				"tid",
+				"Tidy HTML"
+			],
+			[
+				"tidy",
+				"Tidy CSS"
+			],
+			[
+				"ti",
+				"Tidy HTML"
+			],
+			[
+				"wo",
+				"WordPress: Open Config File"
+			],
+			[
+				"auto",
+				"Autoprefix CSS"
+			],
+			[
+				"snip de",
+				"Snippet: desktop  laptop"
+			],
+			[
+				"sni mo",
+				"Snippet: smartphone"
+			],
+			[
+				"snipe",
+				"Snippet: :focus"
+			],
+			[
+				"snip",
+				"Snippet: ipad"
+			],
+			[
+				"clea",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"ty",
+				"Tidy HTML"
+			],
+			[
+				"bro",
+				"SFTP: Browse Server…"
+			],
+			[
+				"sft",
+				"SFTP: Setup Server…"
+			],
+			[
+				"pa",
+				"Package Control: Remove Package"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: List Packages"
+			],
+			[
+				"sftp",
+				"SFTP: Setup Server…"
+			],
+			[
+				"live",
+				"LiveStyle: Apply Patch"
+			],
+			[
+				"remoe",
+				"Package Control: Remove Package"
+			],
+			[
+				"qui",
+				"Git: Quick Commit"
+			],
+			[
+				"qu",
+				"Git: Quick Commit"
+			],
+			[
+				"qi",
+				"Git: Quick Commit"
+			],
+			[
+				"aut",
+				"Autoprefix CSS"
+			],
+			[
+				"git ",
+				"Git: Push"
+			],
+			[
+				"git qu",
+				"Git: Quick Commit"
+			],
+			[
+				"git q",
+				"Git: Quick Commit"
+			],
+			[
+				"git qui",
+				"Git: Quick Commit"
+			],
+			[
+				"git pu",
+				"Git: Push"
+			],
+			[
+				"git",
+				"Git: Push"
+			],
+			[
+				"gut",
+				"Git: Quick Commit"
+			],
+			[
+				"git s",
+				"Git: Status"
+			],
+			[
+				"gi",
+				"Git: Push"
+			],
+			[
+				"Package Control: re",
+				"Package Control: Remove Package"
+			],
+			[
+				"subl",
+				"SublimeZilla: Import FileZilla Server"
+			],
+			[
+				"a",
+				"Autoprefix CSS"
+			],
+			[
+				"colo",
+				"BracketHighlighter: Toggle Global Enable"
+			]
+		],
+		"width": 472.0
+	},
+	"console":
+	{
+		"height": 199.0,
+		"history":
+		[
+			"restart",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/Works/Verstka/brightmedia",
+		"/D/Works/Verstka/brightmedia/html"
+	],
+	"file_history":
+	[
+		"/D/Works/Verstka/loftbricks/html/index.php",
+		"/D/Works/Verstka/brightmedia/html/index_files/assets.min.js",
+		"/D/Works/Verstka/loftbricks/assets/js/scripts.js",
+		"/D/Works/Verstka/loftbricks/assets/scss/main.scss",
+		"/D/Works/Verstka/ajax-form-sender-with-modal/assets/js/scripts.js",
+		"/D/Works/Verstka/loftbricks/html/plitkaloft.php",
+		"/D/Works/Verstka/loftbricks/html/works.php",
+		"/D/Works/Verstka/loftbricks/html/design.php",
+		"/D/Works/Verstka/loftbricks/html_new/js/scripts.js",
+		"/D/Works/Verstka/loftbricks/html_new/css/main.css",
+		"/D/Works/Verstka/ajax-form-sender-with-modal/assets/js/input-mask.js",
+		"/D/Works/Verstka/loftbricks/html/auth.php",
+		"/D/Works/Verstka/loftbricks/html/contact_add.php",
+		"/D/Works/Verstka/loftbricks/html/fields_info.php",
+		"/D/Works/Verstka/loftbricks/src/example_form_cadd/index.php",
+		"/D/Works/Verstka/loftbricks/assets/scss/import/_mixin.scss",
+		"/D/Works/Verstka/loftbricks/html/crm/handler.php",
+		"/D/Works/Verstka/loftbricks/html/style.css",
+		"/D/Works/Verstka/loftbricks/html/prepare.php",
+		"/D/Works/Verstka/loftbricks/html/handler.php",
+		"/D/Works/Verstka/loftbricks/html/contacts_list.php",
+		"/D/Works/Verstka/loftbricks/gulpfile.js",
+		"/D/Works/Verstka/loftbricks/html/crm/contact_add.php",
+		"/D/Works/Verstka/loftbricks/html/crm/contacts_list.php",
+		"/D/Works/Verstka/loftbricks/html/crm/fields_info.php",
+		"/D/Works/Verstka/loftbricks/html/crm/account_current.php",
+		"/D/Works/Verstka/loftbricks/html/crm/auth.php",
+		"/D/Works/Verstka/loftbricks/html/crm/prepare.php",
+		"/D/Works/Verstka/loftbricks/src/example_form_cadd/handler.php",
+		"/D/Works/Verstka/loftbricks/assets/scss/import/_variables.scss",
+		"/D/Works/Verstka/loftbricks/html/index.html",
+		"/D/Works/Verstka/loftbricks/html/works.html",
+		"/D/Works/Verstka/loftbricks/html/plitkaloft.html",
+		"/D/Works/Verstka/loftbricks/src/RobinHerbots-Inputmask-cf89b66/js/inputmask.js",
+		"/D/Works/Verstka/loftbricks/html/design.html",
+		"/D/Works/Verstka/loftbricks/assets/scss/_viewscroller.scss",
+		"/D/Works/Verstka/loftbricks/html/ancient.html",
+		"/D/Works/Verstka/loftbricks/assets/scss/editor-style.scss",
+		"/D/Works/Verstka/loftbricks/assets/scss/fonts/_font_myriadpro.scss",
+		"/D/Works/Verstka/loftbricks/src/viewScroller.js-master/viewScroller.min.js",
+		"/D/Works/Verstka/loftbricks/src/viewScroller.js-master/jquery.mousewheel.min.js",
+		"/D/Works/Verstka/loftbricks/src/viewScroller.js-master/jquery.easing.min.js",
+		"/D/Works/Verstka/wp-framework/wordpress/wp-content/themes/wp-framework/header.php",
+		"/D/Works/Verstka/mirmotorof/wordpress/wp-content/themes/wp-motor/page-contacts.php",
+		"/D/Works/Verstka/mirmotorof/wordpress/wp-content/themes/wp-motor/index.php",
+		"/D/Works/Verstka/mirmotorof/wordpress/wp-content/themes/wp-motor/loop.php",
+		"/D/Works/Verstka/mirmotorof/wordpress/wp-content/themes/wp-motor/page.php",
+		"/D/Works/Verstka/mirmotorof/wordpress/wp-content/themes/wp-motor/pagination.php",
+		"/D/Works/Verstka/mirmotorof/wordpress/wp-content/themes/wp-motor/single.php",
+		"/D/Works/Verstka/mirmotorof/wordpress/wp-content/themes/wp-motor/footer.php",
+		"/D/Works/Verstka/mirmotorof/wordpress/wp-content/themes/wp-motor/header.php",
+		"/D/Works/Verstka/mirmotorof/wordpress/wp-content/themes/wp-motor/404.php",
+		"/D/Works/Verstka/mirmotorof/wordpress/wp-content/themes/wp-motor/front-page.php",
+		"/D/Works/Verstka/zhivotboka/wordpress/wp-content/themes/wp-fits/sidebar.php",
+		"/D/Works/Verstka/zhivotboka/wordpress/wp-content/themes/wp-fits/category.php",
+		"/D/Works/Verstka/zhivotboka/wordpress/wp-content/themes/wp-fits/footer.php",
+		"/D/Works/Verstka/zhivotboka/wordpress/wp-content/themes/wp-fits/404.php",
+		"/D/Works/Verstka/zhivotboka/wordpress/wp-content/themes/wp-fits/header.php",
+		"/D/Works/Verstka/zhivotboka/wordpress/wp-content/themes/wp-fits/functions.php",
+		"/D/Works/Verstka/zhivotboka/wordpress/wp-content/themes/wp-fits/front-page.php",
+		"/D/Works/Verstka/zhivotboka/assets/js/scripts.js",
+		"/D/Works/Verstka/zhivotboka/assets/scss/main.scss",
+		"/D/Works/Verstka/zhivotboka/html/category.html",
+		"/D/Works/Verstka/zhivotboka/wordpress/wp-content/themes/wp-fits/loop.php",
+		"/D/Works/Verstka/wp-framework/wordpress/wp-content/themes/wp-framework/single.php",
+		"/D/Works/Verstka/wp-framework/wordpress/wp-content/themes/wp-framework/loop.php",
+		"/D/Works/Verstka/zhivotboka/wordpress/wp-content/themes/wp-fits/search.php",
+		"/D/Works/Verstka/zhivotboka/wordpress/wp-content/themes/wp-fits/pagination.php",
+		"/D/Works/Verstka/zhivotboka/html/index.html",
+		"/D/Works/Verstka/zhivotboka/wordpress/wp-content/themes/wp-fits/tag-cloud.php",
+		"/D/Works/Verstka/zhivotboka/wordpress/wp-content/themes/wp-fits/single.php",
+		"/D/Works/Verstka/zhivotboka/html/single.html",
+		"/D/Works/Verstka/zhivotboka/wordpress/wp-content/themes/wp-fits/style.css",
+		"/D/Works/Verstka/zhivotboka/wordpress/wp-content/themes/wp-fits/index.php",
+		"/D/Works/Verstka/lemanta/html/design/lemanta/html/index.tpl",
+		"/D/Works/Verstka/zhivotboka/gulpfile.js",
+		"/D/Works/Verstka/zhivotboka/wordpress/wp-config.php",
+		"/D/Works/Verstka/zhivotboka/html/404.html",
+		"/D/Works/Verstka/zhivotboka/assets/scss/_helvetica.scss",
+		"/D/Works/Verstka/get4go/assets/scss/main.scss",
+		"/D/Works/Verstka/get4go/assets/scss/import/_variables.scss",
+		"/D/Works/Verstka/get4go/assets/js/scripts.js",
+		"/D/Works/Verstka/get4go/html/page.html",
+		"/D/Works/Verstka/get4go/html/index.html",
+		"/D/Works/Verstka/get4go/html/list.html",
+		"/D/Works/Verstka/get4go/html/js/scripts.js",
+		"/D/Works/Verstka/get4go/gulpfile.js",
+		"/D/Works/Verstka/get4go/assets/js/slick.js",
+		"/D/Works/Verstka/get4go/assets/js/tooltipster.bundle.js",
+		"/D/Works/Verstka/get4go/assets/js/lity.js",
+		"/D/Works/Verstka/get4go/assets/js/jquery.easy-autocomplete.js",
+		"/D/Works/Verstka/get4go/assets/js/circles.js",
+		"/D/Works/Verstka/get4go/assets/scss/_tooltipster-shadow.scss",
+		"/D/Works/Verstka/get4go/assets/scss/_tooltipster.bundle.scss",
+		"/D/Works/Verstka/get4go/assets/scss/_tooltipster.core.scss",
+		"/D/Works/Verstka/get4go/assets/scss/tooltipster.bundle.css",
+		"/D/Works/Verstka/get4go/assets/scss/slick/_slick-theme.scss",
+		"/D/Works/Verstka/get4go/assets/scss/slick/_slick.scss",
+		"/D/Works/Verstka/get4go/marks2",
+		"/D/Works/Verstka/get4go/assets/scss/_lity.scss",
+		"/D/Works/Verstka/get4go/assets/scss/easy-autocomplete/_easy-autocomplete.themes.scss",
+		"/D/Works/Verstka/get4go/assets/scss/easy-autocomplete/_easy-autocomplete.scss",
+		"/D/Works/Verstka/get4go/marks",
+		"/D/Works/Verstka/get4go/assets/scss/grid/_bootstrap-theme.scss",
+		"/D/Works/Verstka/get4go/assets/scss/grid/_bootstrap.scss",
+		"/D/Works/Verstka/antiddos/wordpress/wp-content/themes/wp-antiddos/single.php",
+		"/D/Works/Verstka/antiddos/wordpress/wp-content/themes/wp-antiddos/header.php",
+		"/D/Works/Verstka/antiddos/wordpress/wp-content/themes/wp-antiddos/inc/tab-choise-type-vps.php",
+		"/D/Works/Verstka/antiddos/wordpress/wp-content/themes/wp-antiddos/inc/tab-choise-type-game.php",
+		"/D/Works/Verstka/antiddos/wordpress/wp-content/themes/wp-antiddos/inc/tab-choise-type-site.php",
+		"/D/Works/Verstka/antiddos/wordpress/wp-content/themes/wp-antiddos/page-types.php",
+		"/D/Works/Verstka/antiddos/marks2",
+		"/D/Works/Verstka/antiddos/assets/scss/main.scss",
+		"/D/Works/Verstka/antiddos/wordpress/wp-content/themes/wp-antiddos/inc/tab-choise-type-remote.php",
+		"/D/Works/Verstka/antiddos/wordpress/wp-content/themes/wp-antiddos/inc/tab-choise-type-highload.php",
+		"/D/Works/Verstka/antiddos/wordpress/wp-content/themes/wp-antiddos/inc/tab-choise--grid.php",
+		"/D/Works/Verstka/antiddos/wordpress/wp-content/themes/wp-antiddos/inc/related-posts.php",
+		"/D/Works/Verstka/antiddos/wordpress/wp-content/themes/wp-antiddos/footer.php",
+		"/D/Works/Verstka/antiddos/wordpress/wp-content/themes/wp-antiddos/sidebar.php",
+		"/D/Works/Verstka/antiddos/wordpress/wp-content/themes/wp-antiddos/loop.php",
+		"/D/Works/Verstka/windows-plast/html/contact.html",
+		"/D/Works/Verstka/antiddos/assets/js/scripts.js",
+		"/D/Works/Verstka/antiddos/wordpress/wp-content/themes/wp-antiddos/js/scripts.js",
+		"/D/Works/Verstka/antiddos/wordpress/wp-content/themes/wp-antiddos/category.php",
+		"/D/Works/Verstka/antiddos/wordpress/wp-content/themes/wp-antiddos/404.php",
+		"/D/Works/Verstka/antiddos/wordpress/wp-content/themes/wp-antiddos/index.php",
+		"/D/Works/Verstka/antiddos/assets/scss/import/_variables.scss",
+		"/D/Works/Verstka/antiddos/wordpress/wp-content/themes/wp-antiddos/page-pay.php"
+	],
+	"find":
+	{
+		"height": 36.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"initializeDefaultPlugins",
+			"loadMusic",
+			".mp3",
+			"FormCheck",
+			"currForm",
+			".red-f",
+			"form-container",
+			"form-con",
+			"red-f",
+			"EMAIL",
+			"crm/",
+			"\t",
+			".php",
+			".html",
+			"htmlOWp",
+			"wpThemeName",
+			"phone",
+			"ancient-second--title",
+			"-bottom",
+			"header--phone",
+			"дизайн-проекты в стиле <span>LOFT</span>",
+			"second",
+			"seven",
+			"fogger",
+			"fogge",
+			"fogged",
+			"home-second",
+			"triangle",
+			"brown-wth-border",
+			"vs-center-wrap",
+			"url('",
+			"header",
+			"widge",
+			"header--logo",
+			"главная",
+			"widget",
+			"category-block",
+			"cat-title",
+			"content-title",
+			"pagination-buttons",
+			"pagination-block",
+			"content-title",
+			"footnav",
+			"content-divider",
+			"the_ex",
+			"content-block",
+			"content-title",
+			"category-block",
+			".category-block",
+			"src=\"img",
+			"htmlOWp",
+			"wpThemeName",
+			"wpDomain",
+			"htmlOWp",
+			"circles-2",
+			"tooltipstered",
+			"topg--item-chart\">",
+			"topg--item-chart",
+			"br /",
+			"topg--item-reviews\"",
+			"topg--item-reviews",
+			"topg--item-reviews tooltipstered",
+			"tooltipstered",
+			"Суммарный показатель\nкомпетентности",
+			"item-circle\"",
+			"This is my span's tooltip message!",
+			"<span class=\"topg--item-fav\"></span>",
+			"fav",
+			"topg--item-nname",
+			"topg--container",
+			"topg--item-more",
+			"topg--item-all",
+			"widget--recomend-name",
+			"profile--pholio",
+			"circles",
+			"topg--item-chart-",
+			"ratio",
+			"ration",
+			"secti",
+			"header-title",
+			"<h6 class=\"widget--recomend-name\">",
+			"aside",
+			"header-",
+			"header-title",
+			"<span class=\"topg--item-fav\">*</span>",
+			"topg--item-tags",
+			"<span>Услуги сантехника</span><span>Помощь по хозяйству</span>",
+			"e5eaee",
+			"href=\"\"",
+			"</span>\n              </li>\n              <li>\n                <span class=\"widget--servicecat-img\">",
+			"comp",
+			"(name)",
+			"topg--item-reviews-n",
+			"circles-5",
+			"#f1f5f8",
+			"(Компания)",
+			"\"topg--item\"",
+			".home-search--autocomplete",
+			"transform",
+			"whatoffer--item",
+			"btn",
+			"nav",
+			"style=\"background-image: url(../img/content/whatoffer",
+			"circles-1",
+			"            <div class=\"topg--item-rating\">\n              Lorem ipsum dolor.\n            </div>",
+			"Свободен</span>",
+			"<span>Онлайн</span></span>",
+			"Открыто</span>",
+			"Закрыто</span>",
+			"Онлайн</span>",
+			"Занят</span>",
+			"93a2b3",
+			"</span><!-- popular-cats--item-c -->",
+			"<span class=\"popular-cats--item-c\">",
+			"        </div><!-- /.col-md-4 popular-cats--item -->",
+			"        <div class=\"col-md-4 popular-cats--item\">\n          <span>",
+			"rad",
+			"gray",
+			"div>",
+			"12",
+			"121",
+			".header--nav-mobile",
+			"table",
+			".tab-choise--container",
+			"купить",
+			".tab-choise--grid",
+			"tab-choise--choise",
+			"tab-choise--button"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"",
+			"  ",
+			".php",
+			"наши работы",
+			"url('../fonts/",
+			"src=\"<?php echo get_template_directory_uri(); ?>/img/",
+			"topg--item-chart tooltip\" data-tooltip-content=\"#topg--item-charts\">",
+			"topg--item-reviews tooltip\" data-tooltip-content=\"#topg--item-reviews\"",
+			"Суммарный показатель компетентности",
+			"item-circle tooltip\" title=\"Суммарный показатель\nкомпетентности\" ",
+			"В избранное",
+			"<span title=\"This is my span's tooltip message!\" class=\"topg--item-fav tooltip\"></span>",
+			"widget--rating-chart-",
+			"header--title",
+			"<h5 class=\"widget--recomend-name\">",
+			"<span class=\"topg--item-fav\"></span>",
+			"<a href=\"#\">Услуги сантехника</a><a href=\"#\">Помощь по хозяйству</a>",
+			"href=\"#\"",
+			"</span>\n                </a>\n              </li>\n              <li>\n                <a href=\"#\">\n                <span class=\"widget--servicecat-img\">",
+			"name",
+			"circles-4",
+			"circles-3",
+			"circles-2",
+			"circles-1",
+			"Компания",
+			"\"topg--item topg--item-lister\"",
+			"style=\"background-image: url(img/content/whatoffer",
+			"circles-8",
+			"circles-7",
+			"circles-6",
+			"circles-5",
+			"circles-4",
+			"circles-3",
+			"circles-2",
+			"circles-1",
+			"            <div class=\"topg--item-rating\">\n              <div class=\"topg--item-chart\">\n                <span class=\"topg--item-chart-p\"></span>\n                <span class=\"topg--item-chart-n\"></span>\n                <span class=\"topg--item-chart-m\"></span>\n              </div>\n              <div class=\"topg--item-circle\" id=\"circles-1\"></div>\n              <div class=\"topg--item-reviews\">\n                Отзывы:\n                <span class=\"topg--item-reviews-p\">15</span>\n                <span class=\"topg--item-reviews-n\">20</span>\n                <span class=\"topg--item-reviews-m\">10</span>\n              </div><!-- /.topg--item-reviews -->\n            </div>",
+			"<span>Свободен</span></span>",
+			"Онлайн</span>",
+			"<span>Открыто</span></span>",
+			"<span>Закрыто</span></span>",
+			"<span>Онлайн</span></span>",
+			"<span>Занят</span></span>",
+			"</a><!-- popular-cats--item-c -->",
+			"<a href=\"#\" class=\"popular-cats--item-c\">",
+			"          </span><!-- popular-cats--item-c -->\n        </div><!-- /.col-md-4 popular-cats--item -->",
+			"        <div class=\"col-md-4 popular-cats--item\">\n          <span class=\"popular-cats--item-c\">\n            <span>",
+			"p>",
+			"<span>купить</span><i class=\"fa fa-shopping-cart\" aria-hidden=\"true\"></i>",
+			"col-md-12 col-sm-12 ",
+			"http://forvk.ru/windowplast/",
+			"",
+			"choise-pay-",
+			"url('../fonts/",
+			"../img/sprite3.png",
+			"../img/opc-ajax-loader.gif",
+			"../img/bg_x.png",
+			"../img/window_overlay.png",
+			"../img/bkg_divider1.gif",
+			"../img/bkg_collapse.gif",
+			"../img/i_rss-big.png",
+			"../img/bullet.png",
+			"../img/rating.png",
+			"../img/bullet-small.png",
+			"../img/list13.png",
+			"../img/list12.png",
+			"../img/list11.png",
+			"../img/list2.png",
+			"../img/list1.png",
+			"../img/bullet2.png",
+			"../fonts/newbycons3.svg",
+			"../fonts/newbycons3.ttf",
+			"../fonts/newbycons3.woff",
+			"../fonts/newbycons3.eot",
+			"../fonts/newbycons2.svg",
+			"../fonts/newbycons2.ttf",
+			"../fonts/newbycons2.woff",
+			"../fonts/newbycons2.eot",
+			"../fonts/newbycons.svg",
+			"../fonts/newbycons.ttf",
+			"../fonts/newbycons.woff",
+			"../fonts/newbycons.eot",
+			"../fonts/linlibertine_rb-webfont.svg",
+			"../fonts/linlibertine_rb-webfont.ttf",
+			"../fonts/linlibertine_rb-webfont.woff",
+			"../fonts/linlibertine_rb-webfont.eot",
+			"../img/xbar-bkg4.png.pagespeed.ic.XjKPoJM89J.png",
+			"../fonts/ThemeIcons.svg",
+			"../fonts/ThemeIcons.ttf",
+			"../fonts/ThemeIcons.woff",
+			"../fonts/ThemeIcons.eot",
+			"../img/bullet.png",
+			"../img/link-separator.png",
+			"",
+			"js/",
+			"",
+			"src=\"img/",
+			"  ",
+			"",
+			"p>",
+			"../img/controls.png",
+			"src=\"<?php echo get_template_directory_uri(); ?>/img",
+			"('<?php echo get_template_directory_uri(); ?>/img",
+			"(<?php echo get_template_directory_uri(); ?>/img",
+			"src=\"<?php echo get_template_directory_uri(); ?>/js/",
+			"",
+			"/",
+			"../img/fancybox-close.png",
+			"../img/usluga-advantage__title_before.png",
+			"../img/about__sklad-bg.jpg",
+			"../img/about__head-bg.jpg",
+			"../img/arr-open.png",
+			"../img/arr-close.png",
+			"../img/next-btn.png",
+			"../img/prev-btn.png",
+			"../img/more-arr_hover.png",
+			"../img/more-arr.png",
+			"../img/osobennosti-bg.jpg",
+			"../img/h1_a_after.png",
+			"../img/footer__phone_before.png",
+			"../img/footer-phones-arr.png",
+			"../img/footer__order-call_before.png",
+			"../img/menu-btn_after.png",
+			"../img/scroller-arr.png",
+			"",
+			"rl('../img/",
+			"fonts/",
+			"../fonts/",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "html/index.html",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 19123,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								784,
+								795
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"apply_syntax_touched": true,
+							"bh_regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai Phoenix (SL).tmTheme",
+							"encoding_helper_encoding": "UTF-8",
+							"encoding_thread_running": true,
+							"incomplete_sync": null,
+							"is_xml": false,
+							"remote_loading": false,
+							"side_bar_folders_auto_load_folder": 1,
+							"synced": false,
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 43.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 150.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 183.0
+	},
+	"output.sftp":
+	{
+		"height": 149.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 172.0
+	},
+	"pinned_build_system": "",
+	"project": "brightmedia.sublime-project",
+	"replace":
+	{
+		"height": 66.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"D:\\Working\\develop\\verstka\\hotels24-blog\\hotels24-blog.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 229.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
