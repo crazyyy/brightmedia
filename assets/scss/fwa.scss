@@ -1,0 +1,62 @@
+/* --- Awwwards Ribbons --- */
+
+/* Base */
+
+#fwa {
+  position: fixed;
+  z-index: 9999;
+
+  &.left.top {
+    left: 0px;
+    top: 0px;
+  }
+
+  &.right.top {
+    right: 0px;
+    top: 0px;
+  }
+
+  &.left.bottom {
+    left: 0px;
+    bottom: 0px;
+  }
+
+  &.right.bottom {
+    right: 0px;
+    bottom: 0px;
+  }
+
+  a {
+    display: block;
+    width: 100px;
+    height: 100px;
+    text-indent: -8000px;
+    background-repeat: no-repeat;
+    background-position: 0 0;
+    overflow: hidden;
+  }
+
+  &.left.top a {
+    background-image: url('../img/DayTopLeft.png');
+  }
+
+  &.right.top a {
+    background-image: url('../img/DayTopRight.png');
+  }
+
+  &.left.bottom a {
+    background-image: url('../img/DayBotLeft.png');
+  }
+
+  &.right.bottom a {
+    background-image: url('../img/DayBotRight.png');
+  }
+}
+
+@media (max-width: 767px) {
+  /* hidden */
+
+  #fwa {
+    display: none;
+  }
+}
